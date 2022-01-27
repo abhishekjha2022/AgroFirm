@@ -29,7 +29,7 @@ const data = {
       id: 1,
       imgSrc: Smart,
       altText: "Smart Features",
-      title: "Smart Features",
+      title: "Lorem ipsum",
       text:
         "Get your blood tests delivered at let home collect sample from the victory of the managements. your blood tests.",
     },
@@ -37,7 +37,7 @@ const data = {
       id: 2,
       imgSrc: Secure,
       altText: "Secure Contents",
-      title: "Secure Contents",
+      title: "Loreum ipsum",
       text:
         "Get your blood tests delivered at let home collect sample from the victory of the managements. your blood tests.",
     },
